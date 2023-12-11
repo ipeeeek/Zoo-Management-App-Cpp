@@ -1,0 +1,9 @@
+# Visual Studio files
+.vs/
+*.ipch/
+
+x64/
+Ipek_Yalcin_Proje1_Zoo/x64/
+Ipek_Yalcin_Proje1_Zoo/*.vcxproj.user
+Ipek_Yalcin_Proje1_Zoo/*.vcxproj.filters
+Ipek_Yalcin_Proje1_Zoo/*.vcxproj
